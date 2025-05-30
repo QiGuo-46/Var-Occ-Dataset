@@ -2,10 +2,7 @@
 The **Var-Occ-Dataset** is a large-scale, diverse dataset specifically designed for **video de-occlusion tasks** in urban environments. It contains challenging scenarios with various types of occlusions, including static structures, dynamic objects, and dense coverage, to support research on robust scene recovery and reconstruction.
 
 ---
-![Uploading image.png…]()
-
-
-
+![Var-Occ Dataset](https://github.com/user-attachments/assets/2f60295a-3a07-4391-854a-c00d018569d2)
 
 ## 📦 Dataset Structure
 
